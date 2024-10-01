@@ -236,7 +236,7 @@
 }
 
 .elementor-5 .elementor-element.elementor-element-db120ad:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-5 .elementor-element.elementor-element-db120ad > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #00adef5c;
+    background-color: var( --e-global-color-6ffecf7 );
 }
 
 .elementor-5 .elementor-element.elementor-element-db120ad > .elementor-element-populated, .elementor-5 .elementor-element.elementor-element-db120ad > .elementor-element-populated > .elementor-background-overlay, .elementor-5 .elementor-element.elementor-element-db120ad > .elementor-background-slideshow {
